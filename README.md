@@ -1,1 +1,1 @@
-# flink-study
+# com.cq.flink-study
